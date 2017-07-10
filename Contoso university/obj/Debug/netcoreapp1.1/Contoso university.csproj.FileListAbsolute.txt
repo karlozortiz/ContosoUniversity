@@ -1,0 +1,9 @@
+c:\users\caoz_\onedrive\documentos\visual studio 2017\Projects\Contoso university\Contoso university\bin\Debug\netcoreapp1.1\Contoso university.deps.json
+c:\users\caoz_\onedrive\documentos\visual studio 2017\Projects\Contoso university\Contoso university\bin\Debug\netcoreapp1.1\Contoso university.runtimeconfig.json
+c:\users\caoz_\onedrive\documentos\visual studio 2017\Projects\Contoso university\Contoso university\bin\Debug\netcoreapp1.1\Contoso university.runtimeconfig.dev.json
+c:\users\caoz_\onedrive\documentos\visual studio 2017\Projects\Contoso university\Contoso university\bin\Debug\netcoreapp1.1\Contoso university.dll
+c:\users\caoz_\onedrive\documentos\visual studio 2017\Projects\Contoso university\Contoso university\bin\Debug\netcoreapp1.1\Contoso university.pdb
+c:\users\caoz_\onedrive\documentos\visual studio 2017\Projects\Contoso university\Contoso university\obj\Debug\netcoreapp1.1\Contoso university.AssemblyInfo.cs
+c:\users\caoz_\onedrive\documentos\visual studio 2017\Projects\Contoso university\Contoso university\obj\Debug\netcoreapp1.1\Contoso university.dll
+c:\users\caoz_\onedrive\documentos\visual studio 2017\Projects\Contoso university\Contoso university\obj\Debug\netcoreapp1.1\Contoso university.pdb
+c:\users\caoz_\onedrive\documentos\visual studio 2017\Projects\Contoso university\Contoso university\obj\Debug\netcoreapp1.1\Contoso university.csprojResolveAssemblyReference.cache

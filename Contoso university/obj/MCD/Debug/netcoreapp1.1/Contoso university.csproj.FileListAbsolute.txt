@@ -1,0 +1,8 @@
+C:\Users\caoz_\OneDrive\documentos\visual studio 2017\Projects\Contoso university\Contoso university\bin\MCD\Debug\netcoreapp1.1\Contoso university.deps.json
+C:\Users\caoz_\OneDrive\documentos\visual studio 2017\Projects\Contoso university\Contoso university\bin\MCD\Debug\netcoreapp1.1\Contoso university.runtimeconfig.json
+C:\Users\caoz_\OneDrive\documentos\visual studio 2017\Projects\Contoso university\Contoso university\bin\MCD\Debug\netcoreapp1.1\Contoso university.runtimeconfig.dev.json
+C:\Users\caoz_\OneDrive\documentos\visual studio 2017\Projects\Contoso university\Contoso university\bin\MCD\Debug\netcoreapp1.1\Contoso university.dll
+C:\Users\caoz_\OneDrive\documentos\visual studio 2017\Projects\Contoso university\Contoso university\bin\MCD\Debug\netcoreapp1.1\Contoso university.pdb
+C:\Users\caoz_\OneDrive\documentos\visual studio 2017\Projects\Contoso university\Contoso university\obj\MCD\Debug\netcoreapp1.1\Contoso university.AssemblyInfo.cs
+C:\Users\caoz_\OneDrive\documentos\visual studio 2017\Projects\Contoso university\Contoso university\obj\MCD\Debug\netcoreapp1.1\Contoso university.dll
+C:\Users\caoz_\OneDrive\documentos\visual studio 2017\Projects\Contoso university\Contoso university\obj\MCD\Debug\netcoreapp1.1\Contoso university.pdb
